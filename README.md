@@ -8,9 +8,9 @@
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
-## Activities:
+Activities:
 
-<table style="width:100%;">
+<table style="width:75%;">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huynghiem110&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="huynghiem110" width="100%"/>
